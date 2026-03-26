@@ -1,4 +1,4 @@
-Hii 👋 I'm Armaan
+Hii 👋 I'm Armaan...
 # 💫 About Me:
 Cybersecurity Researcher focused on Web Application Security  <br>Skilled in identifying and exploiting vulnerabilities such as SSRF, SQL Injection, and Authentication flaws  <br><br>Actively building hands-on experience in offensive security 🚀
 
