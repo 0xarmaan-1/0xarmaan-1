@@ -15,7 +15,7 @@
 - Web Application Security (SSRF, SQLi, XSS, IDOR)  
 - Authentication & Authorization Testing  
 - Manual Testing (Burp Suite)  
-- Basic Recon & Enumeration  
+- Open Source Intelligence (OSINT & Recon)  
 
 ---
 
