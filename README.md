@@ -18,9 +18,9 @@
 
 ## 🎯 About Me
 
-I'm a self-driven **Cybersecurity Researcher** from Panjab, India — specializing in **Red Teaming, Web Application Pentesting, and OSINT**. My approach is manual, deep, and methodical. I find what automated scanners miss.
+I'm a self-driven **Cybersecurity Researcher** from Delhi, India — specializing in **Red Teaming, Web Application Pentesting, and OSINT**. My approach is manual, deep, and methodical. I find what automated scanners miss.
 
-Currently pursuing **BCA @Punjabi University College, Patiala** and preparing for **CRTP Certification** — with a lifelong commitment to offensive security.
+Currently pursuing **BCA @ Punjabi University College, Patiala** and preparing for **CRTP Certification** — with a lifelong commitment to offensive security.
 
 > *"I don't just test applications. I think like the attacker inside them."*
 
@@ -28,7 +28,7 @@ Currently pursuing **BCA @Punjabi University College, Patiala** and preparing fo
 
 ## 💀 Top Bug Bounty Findings
 
-> These are my **top 3 responsible disclosures** — real targets, real impact.
+> Real targets. Real impact. Responsibly reported.
 
 | 🎯 Target | 💉 Vulnerability | ⚡ Impact | 📋 Status |
 |:---|:---|:---|:---|
@@ -38,28 +38,86 @@ Currently pursuing **BCA @Punjabi University College, Patiala** and preparing fo
 
 ---
 
-## ⚔️ Skills
+## ⚔️ Arsenal
 
-**🔴 Offensive Security**
+```
+┌─────────────────────────────────────────────────────────┐
+│  OFFENSIVE SECURITY                                     │
+│  ├── Red Teaming          ├── Web App Pentesting        │
+│  ├── Privilege Escalation ├── Post Exploitation         │
+│  └── Bug Bounty Hunting                                 │
+│                                                         │
+│  VULNERABILITY CLASSES                                  │
+│  ├── SSRF    ├── SQL Injection   ├── XSS   ├── IDOR     │
+│  ├── XXE     ├── CSRF            ├── Auth Bypass        │
+│  └── HTTP Smuggling                                     │
+│                                                         │
+│  OSINT & RECON                                          │
+│  ├── Attack Surface Mapping   ├── Passive Recon         │
+│  ├── Digital Footprint Analysis                         │
+│  └── Google Dorks                                       │
+│                                                         │
+│  TOOLS                                                  │
+│  ├── Burp Suite  ├── Nmap    ├── Metasploit             │
+│  ├── SQLMap      ├── Gobuster ├── Nikto                 │
+│  ├── Wireshark   └── Dalfox                             │
+│                                                         │
+│  PLATFORMS                                              │
+│  ├── Kali Linux   ├── Parrot OS                         │
+│  ├── TryHackMe (100+ Rooms)                             │
+│  └── PortSwigger Web Security Academy                   │
+└─────────────────────────────────────────────────────────┘
+```
 
-![Red Teaming](https://img.shields.io/badge/Red%20Teaming-8B0000?style=flat-square&logoColor=white)
-![Web App Pentesting](https://img.shields.io/badge/Web%20App%20Pentesting-CC0000?style=flat-square&logoColor=white)
-![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-FF4500?style=flat-square&logoColor=white)
-![Privilege Escalation](https://img.shields.io/badge/Privilege%20Escalation-DC143C?style=flat-square&logoColor=white)
-![Post Exploitation](https://img.shields.io/badge/Post%20Exploitation-B22222?style=flat-square&logoColor=white)
+---
 
-**🔵 OSINT & Recon**
+## 📊 Stats
 
-![OSINT](https://img.shields.io/badge/OSINT-0066FF?style=flat-square&logoColor=white)
-![Attack Surface Mapping](https://img.shields.io/badge/Attack%20Surface%20Mapping-0044CC?style=flat-square&logoColor=white)
-![Passive Recon](https://img.shields.io/badge/Passive%20Recon-003399?style=flat-square&logoColor=white)
-![Google Dorks](https://img.shields.io/badge/Google%20Dorks-0055DD?style=flat-square&logoColor=white)
+<div align="center">
 
-**🟡 Vulnerability Classes**
+<img src="https://github-readme-stats.vercel.app/api?username=0xarmaan-1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff4444&text_color=ffffff" height="160"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xarmaan-1&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=ff4444&currStreakLabel=00d4ff" height="160"/>
 
-![SSRF](https://img.shields.io/badge/SSRF-FFD700?style=flat-square&logoColor=black)
-![SQLi](https://img.shields.io/badge/SQL%20Injection-FFA500?style=flat-square&logoColor=black)
-![XSS](https://img.shields.io/badge/XSS-FF8C00?style=flat-square&logoColor=black)
+</div>
+
+---
+
+## 📜 Certifications
+
+```
+  [EC-Council]   SQL Injection Attacks
+  [TryHackMe]    Advent of Cyber 2025
+  [TryHackMe]    Cyber Security Fundamentals
+  [Udemy]        Advanced OSINT
+  [Udemy]        Ethical Hacking Course
+  [Udemy]        Web Application Pentesting
+  [Udemy]        Network Hacking 2025
+  [Udemy]        Linux Privilege Escalation
+  [TechHacker]   EHCS Complete Bundle
+```
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armaan)
+&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Artharu404)
+&nbsp;
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/armaan)
+&nbsp;
+[![College Hub](https://img.shields.io/badge/College%20Hub-Live-00CC00?style=for-the-badge&logo=github&logoColor=white)](https://0xarmaan-1.github.io/college-hub/)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=100&section=footer&text=The%20quieter%20you%20become%2C%20the%20more%20you%20can%20hear.&fontSize=16&fontColor=00d4ff"/>
+</div>![XSS](https://img.shields.io/badge/XSS-FF8C00?style=flat-square&logoColor=black)
 ![IDOR](https://img.shields.io/badge/IDOR-FFB347?style=flat-square&logoColor=black)
 ![Auth Bypass](https://img.shields.io/badge/Auth%20Bypass-FF6347?style=flat-square&logoColor=white)
 ![XXE](https://img.shields.io/badge/XXE-FF4500?style=flat-square&logoColor=white)
