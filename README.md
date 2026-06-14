@@ -1,40 +1,38 @@
-<h1 align="center">Hi 👋, I'm Armaan</h1>
-<h3 align="center">Red Teamer | Constantly learning until the end.</h3>
-<h3 align="center">Cybersecurity Researcher | Web Application Security 🔐</h3>
-                       
----
+<h1 align="center">Hey 👋, I'm Arthru</h1>
 
-### 🚀 About Me
-- 🔍 Finding and exploiting real-world vulnerabilities  
-- 💥 SSRF • SQL Injection • Authentication flaws  
-- 🛠️ Hands-on offensive security practice  
-- ⚡ Focused on practical exploitation & security research  
-
----
-
-### 🧠 Skills
-- Web Application Security (SSRF, SQLi, XSS, IDOR)  
-- Authentication & Authorization Testing  
-- Manual Testing (Burp Suite)  
-- Open Source Intelligence (OSINT & Recon)  
-
----
-
-### 🛠️ Tools
-<p>
-  <img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge&logo=gnu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLmap-yellow?style=for-the-badge"/>
-</p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xarmaan&show_icons=true&theme=tokyonight"/>
+<b>Red Teamer • Bug Hunter • OSINT Specialist</b><br>
+<i>"Born to Hack. Built to Learn. Never Stopping."</i>
 </p>
 
 ---
 
-### ⚡ Mindset
-> Think like an attacker. Build like a defender.
+## 🎯 About Me
+
+I am a self-driven Cybersecurity Researcher specializing in **Red Teaming, Web Application Penetration Testing, and OSINT**. My approach is manual, deep, and methodical — focused on finding high-impact vulnerabilities that automated tools miss.
+
+- 🔴 Discovered critical **SSRF vulnerability** — achieved server-level access on private program
+- 💉 Identified **SQL Injection** on live target — extracted database proof-of-concept
+- 🔐 Reported **OTP bypass flaw** to **Snapchat Security Team** via HackerOne
+- 🏆 Completed **100+ TryHackMe rooms** | Full **PortSwigger Web Security Academy**
+- 📚 Currently pursuing **BCA** | Preparing for **CRTP Certification**
+
+---
+
+## 🛠️ Skills
+
+| Category | Skills |
+|---|---|
+| Web Pentesting | SSRF, SQLi, XSS, IDOR, XXE, CSRF, Auth Bypass |
+| Red Teaming | Post-exploitation, Privilege Escalation, Lateral Movement |
+| OSINT | Attack Surface Mapping, Digital Footprint Analysis, Recon |
+| Networking | TCP/IP, DNS, HTTP/S, Packet Analysis, Wireshark |
+| Programming | Python, Bash, HTML, CSS, JavaScript |
+
+---
+
+## ⚔️ Tools
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
