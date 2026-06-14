@@ -18,7 +18,7 @@
 
 ## 🎯 About Me
 
-I'm a self-driven **Cybersecurity Researcher** from Delhi, India — specializing in **Red Teaming, Web Application Pentesting, and OSINT**. My approach is manual, deep, and methodical. I find what automated scanners miss.
+I'm a self-driven **Cybersecurity Researcher** from Panjab, India — specializing in **Red Teaming, Web Application Pentesting, and OSINT**. My approach is manual, deep, and methodical. I find what automated scanners miss.
 
 Currently pursuing **BCA @ Punjabi University College, Patiala** and preparing for **CRTP Certification** — with a lifelong commitment to offensive security.
 
