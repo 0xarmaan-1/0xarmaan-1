@@ -39,3 +39,101 @@ Currently pursuing **BCA @ Punjabi University College, Patiala** and preparing f
 ---
 
 ## ⚔️ Arsenal
+OFFENSIVE SECURITY
+
+├── Red Teaming
+
+├── Web App Pentesting
+
+├── Privilege Escalation
+
+├── Post Exploitation
+
+└── Bug Bounty Hunting
+VULNERABILITY CLASSES
+
+├── SSRF        ├── SQL Injection
+
+├── XSS         ├── IDOR
+
+├── XXE         ├── CSRF
+
+├── Auth Bypass └── HTTP Smuggling
+OSINT & RECON
+
+├── Attack Surface Mapping
+
+├── Digital Footprint Analysis
+
+├── Passive Recon
+
+└── Google Dorks
+TOOLS
+
+├── Burp Suite  ├── Nmap
+
+├── Metasploit  ├── SQLMap
+
+├── Gobuster    ├── Nikto
+
+├── Wireshark   └── Dalfox
+PLATFORMS
+
+├── Kali Linux
+
+├── Parrot OS
+
+├── TryHackMe — 100+ Rooms
+
+└── PortSwigger Web Security Academy
+---
+
+## 📊 Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=0xarmaan-1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff4444&text_color=ffffff" height="160"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xarmaan-1&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=ff4444&currStreakLabel=00d4ff" height="160"/>
+</div>
+
+---
+
+## 📜 Certifications
+[EC-Council]   SQL Injection Attacks
+
+[TryHackMe]    Advent of Cyber 2025
+
+[TryHackMe]    Cyber Security Fundamentals
+
+[Udemy]        Advanced OSINT
+
+[Udemy]        Ethical Hacking Course
+
+[Udemy]        Web Application Pentesting
+
+[Udemy]        Network Hacking 2025
+
+[Udemy]        Linux Privilege Escalation
+
+[TechHacker]   EHCS Complete Bundle
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armaan)
+&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Artharu404)
+&nbsp;
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/armaan)
+&nbsp;
+[![College Hub](https://img.shields.io/badge/College%20Hub-Live-00CC00?style=for-the-badge&logo=github&logoColor=white)](https://0xarmaan-1.github.io/college-hub/)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=100&section=footer&text=The%20quieter%20you%20become%2C%20the%20more%20you%20can%20hear.&fontSize=16&fontColor=00d4ff"/>
+</div>
