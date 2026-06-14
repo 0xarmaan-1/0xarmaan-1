@@ -12,7 +12,7 @@
 
 Self-driven **Cybersecurity Researcher** from Panjab, India with a focus on manual, deep, and methodical offensive security. I specialize in **Red Teaming**, **Web Application Pentesting**, and **OSINT** — finding what automated scanners miss.
 
-- 🎓 Pursuing **BCA @ Punjabi University College, Patiala**
+- 🎓 Pursuing **BCA @Punjabi University College, Patiala**
 - 📖 Preparing for **CRTP Certification**
 - 🔍 Active bug bounty researcher on private programs
 - 💬 *"I don't just test applications. I think like the attacker inside them."*
