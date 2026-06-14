@@ -28,7 +28,7 @@
 
 ```python
 class Arthru:
-    name       = "Arthru"
+    name       = "Armaan"
     role       = ["Red Teamer", "Bug Hunter", "OSINT Specialist"]
     location   = "Delhi, India"
     education  = "BCA @ University of Haridwar (3rd Year)"
