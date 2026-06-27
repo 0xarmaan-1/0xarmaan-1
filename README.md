@@ -68,11 +68,11 @@ Self-driven **Cybersecurity Researcher** from Panjab, India with a focus on manu
 | TryHackMe | Advent of Cyber 2025 |
 | TryHackMe | Cyber Security Fundamentals |
 | Udemy | Advanced OSINT |
-| Udemy | Ethical Hacking Course |
-| Udemy | Web Application Pentesting |
+| Coding Junction | Ethical Hacking Course |
+| Coding Junction | Web Application Pentesting |
 | Udemy | Network Hacking 2025 |
 | Udemy | Linux Privilege Escalation |
-| TechHacker | EHCS Complete Bundle |
+| Bitten Tech | EHCS Complete Bundle |
 
 ---
 
