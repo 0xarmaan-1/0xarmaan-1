@@ -33,7 +33,6 @@
   a{color:inherit;}
   .wrap{max-width:860px; margin:0 auto; padding:0 28px;}
 
-  /* ---------- hero ---------- */
   .hero{
     position:relative;
     padding:88px 0 72px;
@@ -109,7 +108,6 @@
   @keyframes rise{ from{opacity:0; transform:translateY(10px);} to{opacity:1; transform:translateY(0);} }
   @keyframes blink{ 50%{opacity:0;} }
 
-  /* ---------- sections ---------- */
   main{padding:64px 0 24px;}
   section{padding:48px 0; border-bottom:1px solid var(--line);}
   section:last-of-type{border-bottom:none;}
@@ -137,7 +135,6 @@
     margin:-18px 0 26px;
   }
 
-  /* capabilities */
   .cap-grid{
     display:grid;
     grid-template-columns:1fr 1fr;
@@ -169,7 +166,6 @@
     border-radius:3px;
   }
 
-  /* findings table */
   table{width:100%; border-collapse:collapse; font-size:14.5px;}
   th{
     text-align:left;
@@ -189,7 +185,6 @@
   .impact{color:var(--amber); font-family:var(--font-mono); font-size:13px;}
   .platform{color:var(--teal); font-family:var(--font-mono); font-size:13px;}
 
-  /* toolkit */
   .toolkit-grid{display:grid; grid-template-columns:1fr 1fr; gap:36px;}
   .toolkit-grid h3{
     font-family:var(--font-display);
@@ -198,7 +193,6 @@
     margin:0 0 12px;
   }
 
-  /* certifications */
   .cert-list{display:flex; flex-direction:column;}
   .cert-row{
     display:flex; justify-content:space-between; gap:16px;
